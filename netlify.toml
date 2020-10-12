@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://projectcharter.io"
+  to = "https://projectcharter.io"
+  status = 302
+  force = true
